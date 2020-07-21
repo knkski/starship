@@ -33,6 +33,7 @@ pub const ALL_MODULES: &[&str] = &[
     "java",
     "jobs",
     "julia",
+    "juju",
     "kubernetes",
     "line_break",
     "memory_usage",

@@ -23,6 +23,7 @@ pub mod hg_branch;
 pub mod hostname;
 pub mod java;
 pub mod jobs;
+pub mod juju;
 pub mod julia;
 pub mod kubernetes;
 pub mod memory_usage;
